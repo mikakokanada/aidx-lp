@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://webmarks.co.jp/sitemap.xml
